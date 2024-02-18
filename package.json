@@ -1,0 +1,21 @@
+{
+    "name": "movie-reviews-api",
+    "version": "1.0.0",
+    "description": "A simple API for movie reviews",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "engines": {
+      "node": "21.6.1"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "cors": "^2.8.5",
+      "mongodb": "^4.1.0"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
